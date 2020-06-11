@@ -1,0 +1,22 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Arms",
+      "image": "https://cdn.onlinewebfonts.com/svg/img_493435.png",
+      "reps": 2
+    },
+    {
+      "id": 3,
+      "name": "Legs",
+      "image": "https://static.thenounproject.com/png/3097515-200.png",
+      "reps": 3
+    },
+    {
+      "id": 4,
+      "name": "Core",
+      "image": "https://i1.wp.com/www.rossellfitness.co.uk/wp-content/uploads/2014/11/icon10.png?ssl=1",
+      "reps": 1
+    }
+  ]
+}
